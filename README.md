@@ -16,5 +16,9 @@ Step 4. Open a Pull Request
 Step 5. Merge your Pull Request
 
 And created a new branch: Readme-edits 2 
-I will intentionally leave a type-o so I can later open a pull request and correct it.
+I will intentionally leave a typo so I can later open a pull request and correct it.
+
+I created another branch: about me changes and about me
+I have fixed the "typo"
+
 
