@@ -15,7 +15,7 @@ Step 4. Open a Pull Request
 
 Step 5. Merge your Pull Request
 
-To view my portfolio and learn more about me please visit: www.metamedia-ma.com/about
+To view my portfolio and learn more about me please visit: steventeniente.com
 If you have any questions please feel free to contact me:
 
 e-mail: steniente@gmail.com
